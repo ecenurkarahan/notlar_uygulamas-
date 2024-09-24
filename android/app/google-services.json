@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "942498391289",
+    "firebase_url": "https://notlarim-b14a5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notlarim-b14a5",
+    "storage_bucket": "notlarim-b14a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942498391289:android:abf9c97b206527c1d9ae28",
+        "android_client_info": {
+          "package_name": "com.example.notlarim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDry5AZBl906DvvHl5tcN-wrNCI3pab_cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
